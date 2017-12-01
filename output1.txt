@@ -1,0 +1,27 @@
+||f - fn*||^2, n = 1
+('Integrating Numerically', (0.013522061702828415, 3.6059985541416396e-10))
+('Derived formula        ', 0.01352206170282838)
+||f - fn*||^2, n = 2
+('Integrating Numerically', (0.0032560794481440777, 1.075571836456346e-11))
+('Derived formula        ', 0.0032560794481440447)
+||f - fn*||^2, n = 3
+('Integrating Numerically', (0.0012282311015397672, 2.355406720412097e-17))
+('Derived formula        ', 0.0012282311015397174)
+||f - fn*||^2, n = 4
+('Integrating Numerically', (0.0005866072106219952, 5.800934073916554e-13))
+('Derived formula        ', 0.0005866072106219533)
+||f - fn*||^2, n = 5
+('Integrating Numerically', (0.00032379806490207615, 1.9152694485718644e-11))
+('Derived formula        ', 0.00032379806490201446)
+||f - fn*||^2, n = 6
+('Integrating Numerically', (0.0001970575432393064, 6.274336795020381e-09))
+('Derived formula        ', 0.00019705754323925961)
+||f - fn*||^2, n = 7
+('Integrating Numerically', (0.00012864616628180986, 8.088365093498474e-16))
+('Derived formula        ', 0.00012864616628177616)
+||f - fn*||^2, n = 8
+('Integrating Numerically', (8.854467309944926e-05, 2.5136387112392744e-14))
+('Derived formula        ', 8.85446730994055e-05)
+||f - fn*||^2, n = 9
+('Integrating Numerically', (6.35095083265566e-05, 3.021203700889012e-13))
+('Derived formula        ', 6.350950832650915e-05)

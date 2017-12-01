@@ -1,0 +1,28 @@
+('Integral of df/dx = 2 * x', (0.0, 2.212168008303464e-14))
+||f - fn*||^2, n = 0
+('Integrating Numerically', (2.6666666666666665, 2.9605947323337504e-14))
+('Derived formula        ', 2.6666666666666665)
+||f - fn*||^2, n = 1
+('Integrating Numerically', (1.0455277283892623, 1.0840044206528062e-09))
+('Derived formula        ', 1.0455277283892621)
+||f - fn*||^2, n = 2
+('Integrating Numerically', (0.6402429938199111, 1.621918988004012e-10))
+('Derived formula        ', 0.640242993819911)
+||f - fn*||^2, n = 3
+('Integrating Numerically', (0.46011644512242156, 5.319954749622401e-15))
+('Derived formula        ', 0.46011644512242134)
+||f - fn*||^2, n = 4
+('Integrating Numerically', (0.3587952614800838, 7.419363582707172e-11))
+('Derived formula        ', 0.35879526148008356)
+||f - fn*||^2, n = 5
+('Integrating Numerically', (0.29394970394898756, 2.4501708856261573e-09))
+('Derived formula        ', 0.29394970394898756)
+||f - fn*||^2, n = 6
+('Integrating Numerically', (0.24891806677461525, 4.222299444003232e-15))
+('Derived formula        ', 0.24891806677461537)
+||f - fn*||^2, n = 7
+('Integrating Numerically', (0.21583359864650498, 3.0591499987144845e-13))
+('Derived formula        ', 0.2158335986465052)
+||f - fn*||^2, n = 8
+('Integrating Numerically', (0.19050330273592053, 1.491985866992375e-11))
+('Derived formula        ', 0.19050330273592042)
